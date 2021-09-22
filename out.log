@@ -1,0 +1,134 @@
+2021-09-22 17:02:21 INFO  BufferReaderExample:36 - Introduce la palabra que quieras buscar
+2021-09-22 17:03:41 INFO  BufferReaderExample:45 - Introduce la palabra que quieras buscar
+2021-09-22 17:03:41 INFO  BufferReaderExample:12 - La palabra quijote aparece 0 veces
+2021-09-22 17:03:52 INFO  BufferReaderExample:45 - Introduce la palabra que quieras buscar
+2021-09-22 17:03:52 INFO  BufferReaderExample:12 - La palabra sancho aparece 0 veces
+2021-09-22 17:06:54 INFO  BufferReaderExample:36 - Introduce la palabra que quieras buscar
+2021-09-22 17:07:01 INFO  BufferReaderExample:45 - Introduce la palabra que quieras buscar
+2021-09-22 17:07:02 INFO  BufferReaderExample:12 - La palabra sancho  aparece 0 veces
+2021-09-22 17:12:30 INFO  BufferReaderExample:36 - Introduce la palabra que quieras buscar
+2021-09-22 17:12:37 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 17:12:37 INFO  BufferReaderExample:12 - La palabra quijote aparece 0 veces
+2021-09-22 17:12:45 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 17:12:45 INFO  BufferReaderExample:12 - La palabra quijote aparece 0 veces
+2021-09-22 17:58:46 INFO  BufferReaderExample:36 - Introduce la palabra que quieras buscar
+2021-09-22 17:59:35 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 17:59:38 INFO  BufferReaderExample:12 - La palabra sancho aparece 0 veces
+2021-09-22 18:49:46 INFO  BufferReaderExample:36 - Introduce la palabra que quieras buscar
+2021-09-22 18:49:55 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:49:55 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:49:56 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:49:56 INFO  BufferReaderExample:12 - La palabra hola aparece 3 veces
+2021-09-22 18:50:05 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:06 INFO  BufferReaderExample:12 - La palabra sancho aparece 0 veces
+2021-09-22 18:50:16 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:16 INFO  BufferReaderExample:12 - La palabra quijote aparece 0 veces
+2021-09-22 18:50:17 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:17 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:50:21 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:22 INFO  BufferReaderExample:12 - La palabra pepe aparece 0 veces
+2021-09-22 18:50:23 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:23 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:50:26 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:26 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:50:26 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:26 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:50:27 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:27 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:50:28 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:28 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:50:29 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:29 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:50:29 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:29 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:50:35 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:35 INFO  BufferReaderExample:12 - La palabra caca aparece 0 veces
+2021-09-22 18:50:36 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:36 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:50:38 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:38 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:50:39 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:39 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:50:44 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:44 INFO  BufferReaderExample:12 - La palabra sancho aparece 0 veces
+2021-09-22 18:50:45 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:45 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:50:46 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:50:47 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:51:33 INFO  BufferReaderExample:36 - Introduce la palabra que quieras buscar
+2021-09-22 18:51:38 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:51:38 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:51:42 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:51:43 INFO  BufferReaderExample:12 - La palabra sancho aparece 0 veces
+2021-09-22 18:51:49 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:51:49 INFO  BufferReaderExample:12 - La palabra panza aparece 1 veces
+2021-09-22 18:51:59 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:52:00 INFO  BufferReaderExample:12 - La palabra sancho aparece 0 veces
+2021-09-22 18:52:03 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:52:03 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:52:11 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:52:11 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:52:16 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:52:16 INFO  BufferReaderExample:12 - La palabra quijote aparece 0 veces
+2021-09-22 18:52:19 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:52:19 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:52:20 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 18:52:20 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 18:56:24 INFO  BufferReaderExample:36 - Introduce la palabra que quieras buscar
+2021-09-22 19:01:17 INFO  BufferReaderExample:36 - Introduce la palabra que quieras buscar
+2021-09-22 19:01:25 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:01:26 INFO  BufferReaderExample:12 - La palabra quijote aparece 0 veces
+2021-09-22 19:03:38 INFO  BufferReaderExample:36 - Introduce la palabra que quieras buscar
+2021-09-22 19:03:47 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:03:47 INFO  BufferReaderExample:12 - La palabra quijote aparece 0 veces
+2021-09-22 19:03:51 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:03:51 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 19:06:48 INFO  BufferReaderExample:36 - Introduce la palabra que quieras buscar
+2021-09-22 19:06:57 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:06:58 INFO  BufferReaderExample:12 - La palabra  aparece 0 veces
+2021-09-22 19:07:10 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:07:10 INFO  BufferReaderExample:12 - La palabra quijote aparece 0 veces
+2021-09-22 19:07:40 INFO  BufferReaderExample:36 - Introduce la palabra que quieras buscar
+2021-09-22 19:07:47 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:07:48 INFO  BufferReaderExample:12 - La palabra quijote aparece 0 veces
+2021-09-22 19:07:59 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:07:59 INFO  BufferReaderExample:12 - La palabra panza aparece 1 veces
+2021-09-22 19:08:05 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:08:05 INFO  BufferReaderExample:12 - La palabra don aparece 813 veces
+2021-09-22 19:08:14 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:08:14 INFO  BufferReaderExample:12 - La palabra molinos aparece 6 veces
+2021-09-22 19:08:18 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:08:18 INFO  BufferReaderExample:12 - La palabra zoraida aparece 0 veces
+2021-09-22 19:08:25 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:08:25 INFO  BufferReaderExample:12 - La palabra dulcinea aparece 0 veces
+2021-09-22 19:08:29 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:08:29 INFO  BufferReaderExample:12 - La palabra don aparece 813 veces
+2021-09-22 19:08:36 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:08:36 INFO  BufferReaderExample:12 - La palabra don quijote aparece 0 veces
+2021-09-22 19:08:40 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:08:40 INFO  BufferReaderExample:12 - La palabra mancha aparece 6 veces
+2021-09-22 19:08:47 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:08:47 INFO  BufferReaderExample:12 - La palabra sancho panza aparece 0 veces
+2021-09-22 19:08:50 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:08:50 INFO  BufferReaderExample:12 - La palabra panza aparece 1 veces
+2021-09-22 19:08:58 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:08:58 INFO  BufferReaderExample:12 - La palabra viento aparece 20 veces
+2021-09-22 19:09:01 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:09:01 INFO  BufferReaderExample:12 - La palabra molino aparece 14 veces
+2021-09-22 19:09:59 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:09:59 INFO  BufferReaderExample:12 - La palabra caca aparece 0 veces
+2021-09-22 19:10:06 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:10:06 INFO  BufferReaderExample:12 - La palabra caballo aparece 84 veces
+2021-09-22 19:10:12 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:10:12 INFO  BufferReaderExample:12 - La palabra Quijote aparece 584 veces
+2021-09-22 19:14:50 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:14:50 INFO  BufferReaderExample:12 - La palabra  aparece 2186 veces
+2021-09-22 19:15:06 INFO  BufferReaderExample:36 - Introduce la palabra que quieras buscar
+2021-09-22 19:15:13 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:15:14 INFO  BufferReaderExample:12 - La palabra Dulcinea aparece 76 veces
+2021-09-22 19:15:21 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:15:21 INFO  BufferReaderExample:12 - La palabra Sancho Panza aparece 95 veces
+2021-09-22 19:15:30 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:15:30 INFO  BufferReaderExample:12 - La palabra Don Quijote aparece 169 veces
+2021-09-22 19:15:40 INFO  BufferReaderExample:44 - Introduce la palabra que quieras buscar
+2021-09-22 19:15:41 INFO  BufferReaderExample:12 - La palabra Zoraida aparece 53 veces
